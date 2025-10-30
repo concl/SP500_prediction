@@ -10,3 +10,13 @@ https://docs.google.com/presentation/d/1JvlEUtAZy7UgfX5DvbjNZF0Vqex4JBWcoOv1Igqr
 
 Week 3:
 https://docs.google.com/presentation/d/1fpC91rLdKqJ95zyoM1YIutDLAT5jXlRzVU3ZP6hlhgY/edit?slide=id.g39838a31eda_0_79#slide=id.g39838a31eda_0_79
+
+
+## Kaggle Notebooks:
+
+Feed Forward Network:
+https://www.kaggle.com/code/conclf/feed-forward-network 
+
+Simple Tree Network:
+https://www.kaggle.com/code/leonlenk/simple-tree-notebook
+
