@@ -11,6 +11,12 @@ https://docs.google.com/presentation/d/1JvlEUtAZy7UgfX5DvbjNZF0Vqex4JBWcoOv1Igqr
 Week 3:
 https://docs.google.com/presentation/d/1fpC91rLdKqJ95zyoM1YIutDLAT5jXlRzVU3ZP6hlhgY/edit?slide=id.g39838a31eda_0_79#slide=id.g39838a31eda_0_79
 
+Week 4:
+https://docs.google.com/presentation/d/1ecmAuiX0NzEI0jTzqjZPaFHt4vs9AF2HEwzboY2XN9Y/edit?slide=id.p#slide=id.p
+
+Week 5:
+https://docs.google.com/presentation/d/1WEHn7plJ14RncQGYUL421R1iQWwFcgBGZpvba8IpHcs/edit?usp=sharing 
+
 
 ## Kaggle Notebooks:
 
