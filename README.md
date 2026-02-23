@@ -17,6 +17,8 @@ https://docs.google.com/presentation/d/1ecmAuiX0NzEI0jTzqjZPaFHt4vs9AF2HEwzboY2X
 Week 5:
 https://docs.google.com/presentation/d/1WEHn7plJ14RncQGYUL421R1iQWwFcgBGZpvba8IpHcs/edit?usp=sharing 
 
+Symposium Slides:
+https://docs.google.com/presentation/d/1hInSd9SCSlTCIXkFnT-LboOLQud09Lx8q2ZEoPj_Z5E/edit?usp=sharing
 
 ## Kaggle Notebooks:
 
